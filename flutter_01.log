@@ -1,0 +1,76 @@
+Flutter crash report.
+Please report a bug at https://github.com/flutter/flutter/issues.
+
+## command
+
+flutter run -d chrome
+
+## exception
+
+PathNotFoundException: PathNotFoundException: Cannot open file, path = '/usr/lib/flutter/bin/cache/flutter_web_sdk/flutter_js/flutter.js' (OS Error: No such file or directory, errno = 2)
+
+```
+#0      _File.throwIfError (dart:io/file_impl.dart:783:7)
+#1      _File.openSync (dart:io/file_impl.dart:576:5)
+#2      _File.readAsBytesSync (dart:io/file_impl.dart:664:18)
+#3      ForwardingFile.readAsBytesSync (package:file/src/forwarding/forwarding_file.dart:91:43)
+#4      ForwardingFile.readAsBytesSync (package:file/src/forwarding/forwarding_file.dart:91:43)
+#5      WebDevFS.update (package:flutter_tools/src/isolated/devfs_web.dart:290:57)
+#6      ResidentWebRunner._updateDevFS (package:flutter_tools/src/isolated/resident_web_runner.dart:783:63)
+<asynchronous suspension>
+#7      ResidentWebRunner.run.<anonymous closure> (package:flutter_tools/src/isolated/resident_web_runner.dart:324:41)
+<asynchronous suspension>
+#8      asyncGuard.<anonymous closure> (package:flutter_tools/src/base/async_guard.dart:108:24)
+<asynchronous suspension>
+```
+
+## flutter doctor
+
+```
+[32m[✓][39m Flutter (Channel , 3.38.1, on EndeavourOS 6.12.74-1-lts, locale es_MX.UTF-8) [73ms]
+    [32m•[39m Flutter version 3.38.1 on channel  at /usr/lib/flutter
+    [32m•[39m Upstream repository https://github.com/flutter/flutter.git
+    [32m•[39m Framework revision archlinuxaur (unknown (arch linux aur package)), 2038-01-19 03:14:08
+    [32m•[39m Engine revision b5990e5ccc5e
+    [32m•[39m Dart version 3.10.1
+    [32m•[39m DevTools version 2.51.1
+    [32m•[39m Feature flags: enable-web, enable-linux-desktop, enable-macos-desktop, enable-windows-desktop, enable-android, enable-ios, cli-animations, enable-native-assets,
+      omit-legacy-version-file, enable-lldb-debugging
+
+[32m[✓][39m Android toolchain - develop for Android devices (Android SDK version 36.1.0) [7,5s]
+    [32m•[39m Android SDK at /home/sunset/Android/Sdk
+    [32m•[39m Emulator version 36.3.10.0 (build_id 14472402) (CL:N/A)
+    [32m•[39m Platform android-36, build-tools 36.1.0
+    [32m•[39m Java binary at: /opt/android-studio/jbr/bin/java
+      This is the JDK bundled with the latest Android Studio installation on this machine.
+      To manually set the JDK path, use: `flutter config --jdk-dir="path/to/jdk"`.
+    [32m•[39m Java version OpenJDK Runtime Environment (build 21.0.9+-14649483-b1163.86)
+    [32m•[39m All Android licenses accepted.
+
+[32m[✓][39m Chrome - develop for the web [21ms]
+    [32m•[39m CHROME_EXECUTABLE = google-chrome-stable
+
+[32m[✓][39m Linux toolchain - develop for Linux desktop [943ms]
+    [32m•[39m clang version 21.1.8
+    [32m•[39m cmake version 4.2.3
+    [32m•[39m ninja version 1.13.2
+    [32m•[39m pkg-config version 2.5.1
+    [32m•[39m OpenGL core renderer: AMD Radeon 610M (radeonsi, raphael_mendocino, ACO, DRM 3.61, 6.12.74-1-lts)
+    [32m•[39m OpenGL core version: 4.6 (Core Profile) Mesa 26.0.1-arch1.1
+    [32m•[39m OpenGL core shading language version: 4.60
+    [32m•[39m OpenGL ES renderer: AMD Radeon 610M (radeonsi, raphael_mendocino, ACO, DRM 3.61, 6.12.74-1-lts)
+    [32m•[39m OpenGL ES version: OpenGL ES 3.2 Mesa 26.0.1-arch1.1
+    [32m•[39m OpenGL ES shading language version: OpenGL ES GLSL ES 3.20
+    [32m•[39m GL_EXT_framebuffer_blit: yes
+    [32m•[39m GL_EXT_texture_format_BGRA8888: yes
+
+[32m[✓][39m Connected device (2 available) [140ms]
+    [32m•[39m Linux (desktop) • linux  • linux-x64      • EndeavourOS 6.12.74-1-lts
+    [32m•[39m Chrome (web)    • chrome • web-javascript • Google Chrome 145.0.7632.116
+
+[33m[!][39m Network resources [9,6s]
+    [31m✗[39m A cryptographic error occurred while checking "https://storage.googleapis.com/": Connection terminated during handshake
+      You may be experiencing a man-in-the-middle attack, your network may be compromised, or you may have malware installed on your computer.
+
+[33m![39m Doctor found issues in 1 category.
+```

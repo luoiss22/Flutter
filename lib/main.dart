@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:my_first_app_flutter/screens/buttons_screen.dart';
+import 'package:my_first_app_flutter/screens/cards_screen.dart';
 import 'package:my_first_app_flutter/screens/containers.dart';
 import 'package:my_first_app_flutter/screens/home_screen.dart';
+import 'package:my_first_app_flutter/screens/new_screen.dart';
 import 'package:my_first_app_flutter/screens/rows-columns.dart';
 
 void main() {
@@ -18,6 +20,8 @@ class MainApp extends StatelessWidget {
         '/buttons': (context) => const ButtonsScreen(),
         '/rows-columns': (context) => const RowsColumnsScreen(),
         '/containers': (context) => const ContainersScreen(),
+        '/new': (context) => const NewScreen(),
+        '/cards-screen': (context) => const CardsScreen(),
       },
       debugShowCheckedModeBanner: false,
       home: HomeScreen()

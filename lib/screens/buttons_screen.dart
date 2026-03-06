@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:my_first_app_flutter/widgets/appbar_widget.dart';
 
 class ButtonsScreen extends StatelessWidget {
   const ButtonsScreen({super.key});
@@ -6,12 +7,7 @@ class ButtonsScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        backgroundColor: Colors.indigo,
-        foregroundColor: Colors.white,
-        title: Text('Botones Flutter'),
-        centerTitle: true,
-      ),
+      appBar: AppbarWidget(title: 'Botones'),
       floatingActionButton: FloatingActionButton.extended(
         onPressed: () {},
         label: Text('Balcón'),
