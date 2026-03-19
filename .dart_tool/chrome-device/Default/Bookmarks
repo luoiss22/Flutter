@@ -1,0 +1,442 @@
+{
+   "checksum": "56a6b1ad0830fa093affa7469a0e9ef3",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13329764070130540",
+            "date_last_used": "13369334253124056",
+            "guid": "305200d0-f8d7-4a3b-b540-a83ac20eeef9",
+            "id": "25",
+            "name": "Notas de iCloud",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.icloud.com/notes/0eby--fGAnuBDhVOtprIWc6Og",
+            "visit_count": 1
+         }, {
+            "date_added": "13329783590156869",
+            "date_last_used": "13418345074713894",
+            "guid": "3fad884d-017a-4837-ac8a-a5d100c51144",
+            "id": "26",
+            "name": "Learn Touch Typing Free - TypingClub",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.typingclub.com/",
+            "visit_count": 3
+         }, {
+            "date_added": "13235582420000000",
+            "date_last_used": "0",
+            "guid": "ba45f43b-51d5-4a66-9dc5-c5150dfa0c3d",
+            "id": "27",
+            "name": "Marcadores",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "chrome://bookmarks/",
+            "visit_count": 0
+         }, {
+            "date_added": "13410019191097070",
+            "date_last_used": "13416351915983607",
+            "guid": "4f75c774-a698-4ca3-93d6-6ca46ee5d8de",
+            "id": "28",
+            "name": "Preguntas frecuentes | Jóvenes Construyendo el Futuro | Secretaría del Trabajo y Previsión Social | Gobierno | gob.mx",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.gob.mx/stps/articulos/preguntas-frecuentes-jovenes-construyendo-el-futuro",
+            "visit_count": 3
+         }, {
+            "date_added": "13413431609332236",
+            "date_last_used": "13417228589204580",
+            "guid": "9dc53292-8bcf-4916-a488-9ea26c5c5332",
+            "id": "29",
+            "name": "Remotasks",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.remotasks.com/en/dashboard",
+            "visit_count": 29
+         }, {
+            "date_added": "13414077588570743",
+            "date_last_used": "0",
+            "guid": "5d48b933-6c6f-40e3-b06d-0bdf6c3f2c43",
+            "id": "30",
+            "name": "Oferta Educativa | Centro Público de Formación en IA",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.labmexia.gob.mx/oferta-educativa/",
+            "visit_count": 1
+         }, {
+            "date_added": "13414077801254781",
+            "date_last_used": "0",
+            "guid": "943ec17a-f616-4aaa-aea4-aba939e5a0d9",
+            "id": "31",
+            "name": "Formación Integral | Centro Público de Formación en IA",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.labmexia.gob.mx/formacion/",
+            "visit_count": 1
+         }, {
+            "date_added": "13414077823828993",
+            "date_last_used": "13418274149653977",
+            "guid": "c10c5eb0-964d-4a51-acdb-6fbb6f940f27",
+            "id": "32",
+            "name": "Fundamentos de Python",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.epc.gob.mx/jovenes/fundamentos-de-python/",
+            "visit_count": 8
+         }, {
+            "date_added": "13414729202813828",
+            "date_last_used": "13416351918616031",
+            "guid": "3d3eed8b-6585-4acd-aa66-2d3eecb9aec8",
+            "id": "33",
+            "name": "Python Certification | freeCodeCamp.org",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.freecodecamp.org/learn/python-v9",
+            "visit_count": 7
+         }, {
+            "date_added": "13414787549428412",
+            "date_last_used": "13416351916857332",
+            "guid": "4121c774-a22b-4def-9c88-ad57b0ea2cd5",
+            "id": "34",
+            "name": "Automate the Boring Stuff with Python - Automate the Boring Stuff with Python",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://automatetheboringstuff.com/#toc",
+            "visit_count": 2
+         }, {
+            "date_added": "13414798258501161",
+            "date_last_used": "13416351917409843",
+            "guid": "921829cb-df3e-4dee-a226-c2d4db6d8a62",
+            "id": "35",
+            "name": "Clickworker Workplace | Assessments",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://workplace.clickworker.com/en/workplace/assessments",
+            "visit_count": 4
+         }, {
+            "date_added": "13415345836960746",
+            "date_last_used": "13416351916226454",
+            "guid": "258577bc-bca9-4ead-b627-74737518e4a5",
+            "id": "36",
+            "name": "101 Python Projects | The Complete Python Course for 2025",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.udemy.com/course/the-complete-python-courses/",
+            "visit_count": 2
+         }, {
+            "date_added": "13416117308162038",
+            "date_last_used": "13416351915886305",
+            "guid": "c8333e40-a5d6-49c3-a066-40efe33a10c5",
+            "id": "37",
+            "name": "pep 8 python - Buscar con Google",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.google.com/search?q=pep+8+python&oq=PEP+8&gs_lcrp=EgRlZGdlKgcIARAAGIAEMgkIABBFGDkYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgATSAQgzMDU1ajBqMagCALACAA&sourceid=chrome&ie=UTF-8",
+            "visit_count": 2
+         }, {
+            "date_added": "13416618259952851",
+            "date_last_used": "13417227300619477",
+            "guid": "e4098270-ac12-4c1a-ad91-d15a916c2b5a",
+            "id": "38",
+            "name": "Boletín Epidemiológico",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://boletinepi.salud-oaxaca.gob.mx/",
+            "visit_count": 2
+         } ],
+         "date_added": "13418426029077229",
+         "date_last_used": "0",
+         "date_modified": "13416618259952851",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13304144591971509",
+            "date_last_used": "0",
+            "guid": "40a685cd-6f6b-47d1-8c28-1b5b54201505",
+            "id": "7",
+            "name": "Sobre héroes y tumbas - Wikipedia, la enciclopedia libre",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://es.wikipedia.org/wiki/Sobre_h%C3%A9roes_y_tumbas",
+            "visit_count": 0
+         }, {
+            "date_added": "13317860724736180",
+            "date_last_used": "0",
+            "guid": "01aa873b-31da-47a4-a65a-e3238e9aace7",
+            "id": "8",
+            "name": "erstwhile meaning - Búsqueda",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.bing.com/search?q=erstwhile+meaning&cvid=e5c068f8875e417491a6fa60eb660793&aqs=edge.2.69i57j0l5.3566j0j1&pglt=163&FORM=ANNTA1&PC=U531",
+            "visit_count": 0
+         }, {
+            "date_added": "13318088138898962",
+            "date_last_used": "0",
+            "guid": "1be9a922-fba8-4e35-9618-665e9a478731",
+            "id": "9",
+            "name": "garan no dou - Búsqueda",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.bing.com/search?q=garan+no+dou&cvid=3bd625e3c36a43278d918ad9714412fa&aqs=edge.1.69i57j0l5j46j0l2.6907j0j1&pglt=163&FORM=ANNTA1&PC=U531",
+            "visit_count": 0
+         }, {
+            "date_added": "13318262807706431",
+            "date_last_used": "0",
+            "guid": "f75c4c22-2191-4b35-a171-2e46143f1a89",
+            "id": "10",
+            "name": "Spotify – CASABLANCA",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://open.spotify.com/playlist/7rDhZLZXzTHwdylmpErJhq?si=V5fsfQ_qSRGuBVHam-Ie3A&nd=1",
+            "visit_count": 0
+         }, {
+            "date_added": "13319678152953008",
+            "date_last_used": "0",
+            "guid": "1222ec22-1779-4ca3-b4ae-18336da24fac",
+            "id": "11",
+            "name": "GOKU - Watch Movies Online & Free Movies Streaming",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://goku.to/",
+            "visit_count": 0
+         }, {
+            "date_added": "13363581672265538",
+            "date_last_used": "13363804215201086",
+            "guid": "854a6b26-24c6-42ac-ba7e-5523d0bbbcdb",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Moleman | Óptico | Ben & Frank - Lentes para ver(te) mejor",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.benandfrank.com/shop/product/optical/molemanoptico?variant=MLMNBF-CA",
+            "visit_count": 0
+         }, {
+            "date_added": "13363581709187694",
+            "date_last_used": "13363804215805807",
+            "guid": "44eb7e51-44d8-4a63-8478-48fcb1128dec",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Dieter | Óptico | Ben & Frank - Lentes para ver(te) mejor",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.benandfrank.com/shop/product/optical/dieteroptico?variant=DETRBF-GD",
+            "visit_count": 0
+         }, {
+            "date_added": "13363581710835973",
+            "date_last_used": "13363804216909789",
+            "guid": "1b6ca457-f8d3-44d1-b225-1192a26a29d8",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Orozco | Óptico | Ben & Frank - Lentes para ver(te) mejor",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.benandfrank.com/shop/product/optical/orozcooptico?variant=ORZCBF-BECH",
+            "visit_count": 0
+         }, {
+            "date_added": "13367878960934175",
+            "date_last_used": "0",
+            "guid": "21dab852-a3af-436c-8aad-9c210ef1ec3a",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "WHY ARE MANHOLE COVERS ROUND - Buscar con Google",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.google.com/search?q=WHY+ARE+MANHOLE+COVERS+ROUND&oq=WHY+ARE+MANHOLE+COVERS+ROUND&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQ5MDZqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8",
+            "visit_count": 0
+         }, {
+            "date_added": "13371176870758569",
+            "date_last_used": "0",
+            "guid": "4ff6dcdf-2733-449e-bfc5-eb61f04d0c90",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "adidas Tenis adidas VL Court Base - Negro | adidas Mexico",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.adidas.mx/tenis-adidas-vl-court-base/ID3712.html?cm_mmc=AdieSEM_Google_PLA-_-Shopping-_-ID3712-0016-_-dv%3AeCom-_-cn%3AAlways_On-_-pc%3AOriginals&cm_mmc=AdieSEM_Google_PLA-_-PMax-Originals-M-_--_--_-dv%3AeCom&cm_mmc1=MX&cm_mmc2=PLA-MultipleOriginals-Other-None-MX-LATAM-eCom-Paid_Search&cm_mmca1=MX&cm_mmca2=&gad_source=1&gclid=EAIaIQobChMIzMXBpNTNiAMV3kX_AR2zzjJ6EAQYEiABEgLJTPD_BwE&gclsrc=aw.ds&forceSelSize=MX+8.5",
+            "visit_count": 1
+         }, {
+            "date_added": "13371176894452905",
+            "date_last_used": "0",
+            "guid": "63b4c1f1-b16a-4cba-93c3-ac169e840936",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "adidas Tenis de Senderismo Terrex Anylander - Negro | adidas Mexico",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.adidas.mx/tenis-de-senderismo-terrex-anylander/ID0895.html?cm_mmc=AdieSEM_Google_PLA-_-Shopping-_-ID0895-0008-_-dv%3AeCom-_-cn%3AAlways_On-_-pc%3ASenderismo&cm_mmc=AdieSEM_Google_PLA-_-PMax-Shoes-M-_--_--_-dv%3AeCom&cm_mmc1=MX&cm_mmc2=PLA-MultipleSenderismo-Other-None-MX-LATAM-eCom-Paid_Search&cm_mmca1=MX&cm_mmca2=&gad_source=1&gclid=EAIaIQobChMIzMXBpNTNiAMV3kX_AR2zzjJ6EAQYBSABEgIkGPD_BwE&gclsrc=aw.ds",
+            "visit_count": 1
+         }, {
+            "date_added": "13371176910060620",
+            "date_last_used": "0",
+            "guid": "b7252274-1434-4390-ba35-db58be73b765",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "adidas Tenis de Trail Running Tracefinder - Negro | adidas Mexico",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.adidas.mx/tenis-de-trail-running-tracefinder/IE5906.html?pr=product_rr&slot=2&rec=ds",
+            "visit_count": 1
+         }, {
+            "date_added": "13371176956067364",
+            "date_last_used": "0",
+            "guid": "a26cd331-55b9-4c94-b102-5b62970d9243",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "adidas Tenis Gazelle - Negro | adidas Mexico",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.adidas.mx/tenis-gazelle/CQ2809.html",
+            "visit_count": 1
+         }, {
+            "date_added": "13371178217202719",
+            "date_last_used": "0",
+            "guid": "9484c29d-e220-4f00-bf0f-c3692702ebda",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "adidas Tenis adidas VL Court Base - Negro | adidas Mexico",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.adidas.mx/tenis-adidas-vl-court-base/ID3712.html?cm_mmc=AdieSEM_Google_PLA-_-PMax-Originals-M-_--_--_-dv%3AeCom&cm_mmc1=MX&cm_mmc2=PLA-MultipleOriginals-Other-None-MX-LATAM-eCom-Paid_Search&cm_mmca1=MX&cm_mmca2=&forceSelSize=MX%208.5&gad_source=1",
+            "visit_count": 1
+         }, {
+            "date_added": "13371178264638546",
+            "date_last_used": "0",
+            "guid": "8acc8f50-f7f2-497a-9480-4e4927d04cee",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "adidas Tenis Superstar - Negro | adidas Mexico",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.adidas.mx/tenis-superstar/ID3109.html",
+            "visit_count": 1
+         }, {
+            "date_added": "13371178269203953",
+            "date_last_used": "0",
+            "guid": "b1c1cb59-1a24-41f2-b6d1-79bea6581c4d",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "adidas Tenis AlphaEdge + - Negro | adidas Mexico",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.adidas.mx/tenis-alphaedge-/IF7290.html",
+            "visit_count": 1
+         }, {
+            "date_added": "13371178272300309",
+            "date_last_used": "0",
+            "guid": "4741d883-ff7f-4da1-af59-a3c76961d97c",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "adidas Tenis Multix - Negro | adidas Mexico",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.adidas.mx/tenis-multix/FZ3438.html",
+            "visit_count": 1
+         }, {
+            "date_added": "13374120868826532",
+            "date_last_used": "0",
+            "guid": "dd0cc56a-9c5a-4a34-af23-f5cd63b8724d",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "21 Places to Eat the Best Tacos in Oaxaca City (2024)",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://oaxacatraveltips.com/best-tacos-oaxaca/",
+            "visit_count": 1
+         } ],
+         "date_added": "13418426029077229",
+         "date_last_used": "0",
+         "date_modified": "13374120868826532",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Otros favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13418426029077229",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos móviles",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "workspaces_v2": {
+         "children": [  ],
+         "date_added": "13418426029077229",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "75aa6670-344f-549d-b742-660f029506ab",
+         "id": "5",
+         "name": "Áreas de trabajo",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCNnuWgedAQAAEgAqGGRnTWpDNTA4UkJaUFYzWFBNWVlJRmc9PUgDoAYHEo4BCAUSiQEKHHdSQnJaTCs2UEE5YXZLZ2pOUDdKWERMY2Z2cz0SJGJjZGExZDM3LTI3Y2UtNTU3NC1iMDVhLWViMzFkYzM3MjExNxgAIAAoADCc+vTTpDM40vv006QzQNL79NOkM0ocbm14NjVzUUR2eEk4VGdFZXYrQStudHRvU240PVoAZQAAAADCPgJgABK0AQgmEq8BChxDTUlkWmNhdW0wcjg1SjN1aklxMHhGVFhQQXc9EiRlNDA5ODI3MC1hYzEyLTRjMWEtYWQ5MS1kMTVhOTE2YzJiNWEYACAAKAAw36vrgswzONq8tuDJM0DavLbgyTNKHHprek5QQzYvc2tOSVFhWFdFYW03eTBITFYyOD1aJiIk/////wAAAAloMW9lQ2tpOW55YWdDaWRrRE5lT2VXUC9YeXM9ZTx9wxLCPgJgBRK1AQglErABChw4ZERJR29pcGNLbE50UmgzTDNrOVNTRjdhTDA9EiRjODMzM2U0MC1hNWQ2LTQ5YzMtYTA2Ni00MGVmZTMzYTEwYzUYACAAKAAwuIm24cgzOJnixvHHM0CZ4sbxxzNKHFBZdWYra0IvK3RGYjJUbGUyZnRjbGFyRXFZQT1aJyIl/////wAAAAj+UUFBT05rbVhZbENVZHlyRlBEaFROSE9wVUJRPWVi6bJJwj4CYAUStQEIIxKwAQocNmlsSEdpa2tRQjNIQVhrSXlBdHlXWjlqeUtRPRIkOTIxODI5Y2ItZGYzZS00ZGVlLWEyMjYtYzJkNGRiNmQ4YTYyGAAgACgAMLWJtuHIMzi0wMr8wjNAtMDK/MIzShxjMmVLNm9sNzJ3dkVMcXBJWjFxR3o3UnJScEE9WiciJf////8AAAAI+itGRmE4VDdtWURPa2c0bzBjK1FCSVFWTGRHUT1lO7hRXsI+AmAFErUBCCQSsAEKHHBFVUhVdEJyakx6akZPOW1LeTJlQXQ2QVJKRT0SJDI1ODU3N2JjLWJjYTktNGVhZC1iNjI3LTc0NzM3NTE4ZTRhNRgAIAAoADC5ibbhyDM42fLXgcUzQNny14HFM0ocZ0RXYnByRi9pUVdncFBwc3J1UGp2VHhCMG1vPVonIiX/////AAAACP1pN1F0SW4wcVBPUGVkekZlOTVtbmo4UTBLbWM9ZdgPEeLCPgJgBRK1AQggErABChx0VW9NYnRLWFpBNFY3Q003eFdHS1pmaVFzTXc9EiRjMTBjNWViMC05NjRkLTRhNTEtYWNkYi02ZmJiNmY5NDBmMjcYACAAKAAw3vCB9s8zOJHAhqXAM0CRwIalwDNKHHozSW5wVkMzUDZIUjRZeHV4OVNiS2ZaOWFJdz1aJyIl/////wAAAAjRRHl5djRhUHkzTjlXaEVycWcycUptWWFkK3BRPWWP1mpywj4CYAUStAEIHhKvAQoccjRJYzV5YlNqYkR5SUt4OUZCNWdUemVmbjA0PRIkNWQ0OGI5MzMtNmM2Zi00MGUzLWIwNmQtMGJkZjZjM2YyYzQzGAAgACgAMNSptuHIMzjOk/ikwDNAzpP4pMAzShxJM3NXZ3JZREkxZndKQUUyd0wxaHI1bnVmbFE9WiYiJP////8AAAAIR2hsOVdJVDJqZndqU0FaampwYlNhYUFST1VzPWXajRCtwj4CYAUStAEIHRKvAQocTlVuWkxRYVAzVmt0bXRPT0d6b0FlbjNKenc0PRIkOWRjNTMyOTItOGJjZi00OTE2LWE0ODgtOWVhMjZjNWM1MzMyGAAgACgAMPbN3+LOMzij1fTwvTNAo9X08L0zShwwelZ6YzFvMFo4N1pXN3M5RnRJalpSTkxuaWc9WiYiJP////8AAAAIMlpGVTk4ci9vbjQyQXF1MGV4c1h0UmxvMFhvPWX8M8R8wj4CYAUStQEIHBKwAQocRDYrcUFWbjRmbFVXZ0hGU0JycmJya3N1VDFvPRIkNGY3NWM3NzQtYTY5OC00Y2EzLTkzZDYtNmNhNDZlZTVkOGRlGAAgACgAMLuJtuHIMzjYoN+VsTNA2KDflbEzShxHUUVyYUlVaWQ4MytQK1lndWxJeEk1aE1WK2s9WiciJf////8AAAAG9ktRaStDOWtqNzlkUUN3cmFjU09JQWJPTnFTZz1lHeU1KMI+AmAFErUBCBsSsAEKHHJiRlcvZTdTSHJsdGwwVjdnMnlLTXdrWTBPUT0SJGJhNDVmNDNiLTUxZDUtNGE2Ni05ZGM1LWM1MTUwZGZhMGMzZBgAIAAoADDjxpa5jDE4hMyWuYwxQITMlrmMMUocWjZkWG4xcE1qNjFkZ0IrdnF0N1p2TG52ZlhvPVonIiX/////AAAABbEwaXppSTZYdWxVbzRUZ2xzd1A2eWFjYVVXZFE9ZQAAAADCPgJgBRKsAQgHEqcBChw2c2UwWU9RbTZKVlZVV0tIQTh4aERiT1RaWWc9EiQ0MGE2ODVjZC02ZjZiLTQ3ZDEtOGMyOC0xYjViNTQyMDE1MDUYACAAKAAw7b2/0P4wOJLAv9D+MECSwL/Q/jBKHGxpMjl3aC9PVlp5YmN2dFk5TzVZY3hZd2ZsRT1aHiIcSDNDQVMxZmFQRTk2V0ZuWXlRWXIwNXVOWFVjPWXhLlkQwj4CYAUSrwEIGhKqAQocZHlnb3prR3BaV2cyOFZGdVU2cTU5QXozZXFBPRIkM2ZhZDg4NGQtMDE3YS00ODM3LWFjOGEtYTVkMTAwYzUxMTQ0GAAgACgAMM7b6pfQMzjv87aihjFA7/O2ooYxShwwK0MxTzlQRFpUaGNMRHhFdEZGRnFUZmFFSVk9WiEiH////3hCTFJvdkFvZDVHdFNaWk1hbUI5aTlES0psST1lp9uVfMI+AmAFEq8BCBgSqgEKHHFlMHFQYkJkQm5rVlRQNENGdXBHQ3JnSkdocz0SJGRkMGNjNTZhLTljNWEtNGEzNC1hZjIzLWY1Y2Q2M2I4NzI0ZBgAIAAoADD/vYu4qzI4rsGLuKsyQK7Bi7irMkocMXVBOU44anFLbG5CWWpMMVdpeldzK05tOGZJPVohIh///9lOWk5oWWIxSFJ3emlzTXVEQXQ2bS8vdjVlaUU9Zbkv+j/CPgJgBRKuAQgWEqkBChxGQlhDcEcyNHhaSmpieGRhYTlCWW9QbnJWb2c9EiRiMWMxY2I1OS0xYTI0LTQxZjItYjZkMS03OWJlYTY1ODFjNGQYACAAKAAw9bb5vKAyOOK3+bygMkDit/m8oDJKHFJ1c2x6dms4dmdwZTAzVUVKcVFGQzNicFdqUT1aICIe//9nM1lhUG9pWGZRNTV3RytGdVRXNFBobk90RHc9ZagFcWbCPgJgBRK1AQghErABChx6ZHNzWTdaMUtIVW9XRjBzcTNqUnZZajhLVWs9EiQzZDNlZWQ4Yi02NTg1LTRhY2QtYWE2Ni0yZDNlZWNiOWFlYzgYACAAKAAw06m24cgzOKm+09vCM0CpvtPbwjNKHE90d28vYU1lQUMxNVBZVjRpdWxZS09pTHdiYz1aJyIl/////wAAAAjoZjZORUhTTmQ1bnhFUlEyZGQvT0hMenpBc2NZPWWVqAojwj4CYAUStQEIHxKwAQocUElVS1QrVWZMQ0JYNEU5ZlFIeTZBbVJCRVJjPRIkOTQzZWMxN2EtZjYxNi00YWFhLWFlYTQtYWJhOTM5ZTVhMGQ5GAAgACgAMNKptuHIMzi5kIWlwDNAuZCFpcAzShxka2MvL091dFMwR3pDNGtLQ3JZOWpDS2RQKzg9WiciJf////8AAAAIo0RpM1ZjK0ZpMitiWG9rOG0wZVQwcllUZlZYZz1l2o0QrcI+AmAFEqwBCAkSpwEKHE9uTWRjNWd4UitIZG8yYXQwMEgxTTlnTmNqRT0SJDFiZTlhOTIyLWZiYTgtNGUzNS05NjE4LTY2NWU5YTQ3ODczMRgAIAAoADD42tiUyTM4tcG/0P4wQLXBv9D+MEocWFhjK2EvQnN0YWhmNnJvYUJCUE90WE5yeHRRPVoeIhxzdldncGdzbjRGVVBJdi9SNnQ2eFZNN3NsblE9ZXaFu7XCPgJgBRKuAQgUEqkBChxjdmpVVHo1ZDRuV3BsWUszWldlampvNE43Snc9EiQ5NDg0YzI5ZC1lMjIwLTRmMDAtYmYwZi1jMzY5MjcwMmViZGEYACAAKAAw65/2vKAyOIWi9rygMkCFova8oDJKHElDZkcvcm13Y29TbHVIVVU4VHNKNmhIM2k4az1aICIe//4wckdaWUhuUjdvVS9sSHdKRW9DbFBaSWxUWVU9ZagFcWbCPgJgBRKuAQgTEqkBChxBcXp2MnQ4QVpRUDlLNXV3VmkrV2pUeFI4M009EiRhMjZjZDMzMS01NWI5LTRjOTQtYjEwMi01YjYyOTcwZDkyNDMYACAAKAAw8rOpvKAyONy0qbygMkDctKm8oDJKHEdqRGRud2RGQk1ha013TWpSQUt0Si9oMnUrYz1aICIe//1nZkV6OEN5dWxTOC9qM1crZWk0UVVCdFZLalE9ZagFcWbCPgJgBRKtAQgKEqgBChx1SGxwNjB1RGJkV1RWSm9jWE1RRkFTUmJ6cTg9EiRmNzVjNGMyMi0yMTkxLTRiMzUtYTE3MS0yZTQ2MTQzZjFhODkYACAAKAAw9L2/0P4wOPHBv9D+MEDxwb/Q/jBKHFN4WFBPNHQwck1FbU1YbWRxNGxRSzJSZ01Tcz1aHyIduTU3WXV2bytOUnplQVdYcFBYazQyWHFoRUxUST1lFBx96sI+AmAFEq8BCBcSqgEKHE15VEtOTEE4RXd6dTdxSHBvMVM0UXFVeXl3VT0SJDQ3NDFkODgzLWZmN2YtNGRhMS1hZjU5LWEzYzc2OTYxZDk3YxgAIAAoADDKzfm8oDI4u875vKAyQLvO+bygMkocNXh4bnRHMFhVVkUzazlsL1ZaMDQ4QWN5eTJNPVohIh///7NXVERKaDlWZWtLTGlpZSt0RGZjR2x2aVp6RFU9ZagFcWbCPgJgBRK1AQgiErABChx5aG9lek5yY21hMFpZb2lRZ0NvNmx1akYyVmc9EiQ0MTIxYzc3NC1hMjJiLTRkZWYtOWM4OC1hZDU3YjBlYTJjZDUYACAAKAAwt4m24cgzOJ3gvPfCM0Cd4Lz3wjNKHFIvYXkzWGVZWlRlVzR4UlVIbWRkcit6WUhrRT1aJyIl/////wAAAAj0NVdpTWNKWjZXcU04QjlxVFNOeHJaa2hTNHVZPWV9l/Ufwj4CYAUSrgEIEhKpAQocaFlCNjFUTE4xVkU3TXpEV3k4eDFJSFkyRDNrPRIkYjcyNTIyNzQtMTQzNC00MzkwLWJhMzUtZGI1OGJlNzNiNzY1GAAgACgAMNTMprygMjjmzaa8oDJA5s2mvKAyShw3dkVZNGQ3amdPZTFNaTVKdUcwSTRoMVQrSkE9WiAiHv/7V1hqSE9NMTFIOU4xbDNad09hOWdDekY3R0lzPWWoBXFmwj4CYAUSrgEIEBKpAQocWWZMYjB5ZGpNQ05TNjRWdk9xSGtCUDdJSnFjPRIkNGZmNmRjZGYtMjczMy00NDllLWJmYzUtZWI2MWYwNGQwYzkwGAAgACgAMNaZpLygMji6m6S8oDJAupukvKAyShxZRXRETnJSYWgrdUYrdlh5MnhKV3JoaEJXUVU9WiAiHv/ucmg4Ym80aUNrV28wV3VlRXVIaHBPek9rUlBBPWWoBXFmwj4CYAUSrwEIGRKqAQocUm9XSmxXdUxkcEtwQmQwTHBWeGZyd3N6K0dRPRIkMzA1MjAwZDAtZjhkNy00YTNiLWI1NDAtYTgzYWMyMGVlZWY5GAAgACgAMNjd67rQMziRv4+ZhjFAkb+PmYYxShw2ZFNvR2s4TUpvRjBCaTdvOWdYaEYrMTArYVk9WiEiH////ldWbEZvVC9jQXdCZlhIdGpEOFhuQWluOHM5UT1lorwiy8I+AmAFEq4BCBESqQEKHExMQXBkUCt2YmhrSkFnMFhNbG9kRWpOZ2ozST0SJDYzYjRjMWYxLWIxNmEtNGNiYS05M2MzLWFjMTY5ZTg0MDkzNhgAIAAoADDJ0qW8oDI4sdOlvKAyQLHTpbygMkocSm5yNEIwTThlWjErekxNK2lNQzFOUVp0blVZPVogIh7/92sxYmRaRXVOcTFOYWw0Sk0yTDFZMWFWMGg0OD1lqAVxZsI+AmAFEq0BCA0SqAEKHE1Cd1hFZ28yc1EyMmxGOXRkaFB4bWY4WmZLTT0SJDQ0ZWI3ZTUxLTQ0ZDgtNGE2My04NDc4LTQ4ZmNiMTEyOGRlYxgAIAAoADCo2IjsmzI41OSI7JsyQNTkiOybMkocNVpBYVBsNVRGY0pJM1RJaENpeENOaEc2VnRRPVofIh39RElzbkNaRVlxRzVyaTJDL1BuMVJmWVIzaFVJPWVQ31djwj4CYAUSrQEIDhKoAQocK0FEaS9MNlUvZDNaSmo2dFE3c3IvMGEzT2s0PRIkMWI2Y2E0NTctZjhkMy00NGQxLWIyMjUtMTE5MmEyNmEyOWQ4GAAgACgAMJ7YiOybMjiA4ojsmzJAgOKI7JsyShw0Z2RSdXR1NDJkNWNkK3N5K1lIR3pEanZFM1E9Wh8iHf5Nd1VJNUd6U2l6QkNyQnVwVEFsVkJ5MGd0dmc9ZVDfV2PCPgJgBRKuAQgPEqkBChwwN0RwZUozMzZMd3pGUWpwU1V6TWpZck9TMUE9EiQyMWRhYjg1Mi1hM2FmLTQzNmMtOGFhZC05YzIxMGVmMWVjM2EYACAAKAAw99rYlMkzOMTjiOybMkDE44jsmzJKHCt3bGR3MmtLem5oNEZJMEhyS0FaRW1LVC9Ucz1aICIe/9xjVXFVdGhod0ZDVDgrK1NRd3pGZDl5UEM0cm89Zdpp3l3CPgJgBRKuAQgVEqkBChxkOW9tcVpwZVFLcFllU1YwY3FRY1dQd1RPaWc9EiQ4YWNjOGY1MC1mN2YyLTQ5N2EtOTQ4MC00ZTQ5MjdkMDRjZWUYACAAKAAw5JH5vKAyOM2S+bygMkDNkvm8oDJKHEMwVWgwUERLTUlOYmtoUW9ldXpTUkYxdkJMVT1aICIe//9lZW04NEZmVWVpbkRFekp2WFdmbGFuVGV4OUE9ZagFcWbCPgJgBRKtAQgMEqgBChxGSVBtRURaaTRrTUFZOS9zSmkvWXlubDFEZjQ9EiQ4NTRhNmIyNi0yNGM2LTQyYWMtYmE3ZS01NTIzZDBiYmJjZGIYACAAKAAwotiI7JsyOOPiiOybMkDj4ojsmzJKHGIzdUpIdytXNGJLaVFWdnlCVmV5bmVqbFFrQT1aHyId+3ZKK2N4dG9vbFU4bTA3VllpZFgyME1VK2dOMD1lUN9XY8I+AmAFEq0BCAsSqAEKHC9yc3JsUWhCZlJBMG0wVk9IR25sUjJlQ1hGdz0SJDEyMjJlYzIyLTE3NzktNGNhMy1iNGFlLTE4MzM2ZGEyNGZhYxgAIAAoADD7vb/Q/jA41cO/0P4wQNXDv9D+MEocQjBieXdIUVRXN1VQL0MzKzkvQmMwNW9IR1c4PVofIh33a08rcThHZXpLMzlad2FFM1ZhbklNa0haM08wPWUe9XqIwj4CYAUSjgEIARKJAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkOTBmNWM2OWUtNWU0Mi01N2VhLWJkZGItZjAwNzAxMWEwNmJkGAAgACgAMJ7NkIKaLzigs9XRjzBAoLPV0Y8wShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAAMI+AmAAEqwBCAgSpwEKHGM4VkNiRUkwbU9GbU80emhuNm1IcXpheTRLUT0SJDAxYWE4NzNiLTMxZGEtNDdhNC1hNjVhLWUzMjM4ZTlhYWNlNxgAIAAoADD52tiUyTM42MC/0P4wQNjAv9D+MEocbStIM0pvNnMrQ0F2dHh3N3ZTR3d0WHdkU0FrPVoeIhxQa2lQVkMvOHRzQ0NxNS9BUjV1Nm4vQTZEQUE9ZfTwSyjCPgJgBRKOAQgDEokBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQ0ZDJhNTZiZC0xNzBiLTU5NWUtOGU5Ni1lYmVlMjZiNjEyZWMYACAAKAAwns2QgpovOOKy1dGPMEDistXRjzBKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAwj4CYAASjgEIAhKJAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkNTU1N2IyMWYtODM3Zi01NTE5LThiYjUtYmI3NTQwOTA2NWMyGAAgACgAMJ7NkIKaLziBs9XRjzBAgbPV0Y8wShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAAMI+AmAAMAA4AA==",
+   "version": 1
+}
